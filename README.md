@@ -4,7 +4,7 @@ The course on [freeCodeCamp](https://www.freecodecamp.org/learn/back-end-develop
 
 In the Back End Development and APIs Certification, you'll learn how to write back end apps with Node.js and npm. You'll also build web applications with the Express framework, and build a People Finder microservice with MongoDB and the Mongoose library.
 
-## Managing Packages with NPM
+## 1 Managing Packages with NPM
 
 npm (Node Package Manager), is a command line tool to install, create, and share packages of JavaScript code written for Node.js. There are many open source packages available on npm, so before starting a project, take some time to explore so you don't end up recreating the wheel for things like working with dates or fetching data from an API.
 
@@ -12,7 +12,7 @@ In this course, you'll learn the basics of using npm, including how to work with
 
 - [ ] How to use package.json
 
-## Basic Node and Express
+## 2 Basic Node and Express
 
 Node.js is a JavaScript runtime that allows developers to write backend (server-side) programs in JavaScript. Node.js comes with a handful of built-in modules — small, independent programs — that help with this. Some of the core modules include HTTP, which acts like a server, and File System, a module to read and modify files.
 
@@ -22,7 +22,7 @@ Express is a lightweight web application framework, and is one of the most popul
 
 In this course, you'll learn the basics of Node and Express including how to create a server, serve different files, and handle different requests from the browser.
 
-## MongoDB and Mongoose
+## 3 MongoDB and Mongoose
 
 MongoDB is a database application that stores JSON documents (or records) that you can use in your application. Unlike SQL, another type of database, MongoDB is a non-relational or "NoSQL" database. This means MongoDB stores all associated data within one record, instead of storing it across many preset tables as in a SQL database.
 
@@ -30,7 +30,7 @@ Mongoose is a popular npm package for interacting with MongoDB. With Mongoose, y
 
 In the MongoDB and Mongoose courses, you'll learn the fundamentals of working with persistent data including how to set up a model, and save, delete, and find documents in the database.
 
-## Back End Development and APIs Projects
+## 4 Back End Development and APIs Projects
 
 You've worked with APIs before, but now that you know npm, Node, Express, MongoDB, and Mongoose, it's time to build your own. Draw on everything you've learned up to this point to create 5 different microservices, which are smaller applications that are limited in scope.
 
