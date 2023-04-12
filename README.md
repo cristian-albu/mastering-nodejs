@@ -10,7 +10,7 @@ npm (Node Package Manager), is a command line tool to install, create, and share
 
 In this course, you'll learn the basics of using npm, including how to work with the package.json and how to manage your installed dependencies.
 
-- [ ] How to use package.json
+- [x] How to use package.json [Repl](https://boilerplate-npm-1.cristianalbu.repl.co/)
 
 ## 2 Basic Node and Express
 
